@@ -1,0 +1,6 @@
+canvas {
+  display: flex;
+  background-color: rgb(156, 177, 177);
+  justify-content: center;
+  margin: auto;
+}
